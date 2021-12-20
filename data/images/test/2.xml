@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2.jpg</filename>
+	<path>C:\Users\DB\Documents\ik\doc\object_detection_demo\data\images\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>document</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>2</ymin>
+			<xmax>288</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>
